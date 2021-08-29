@@ -18,4 +18,6 @@ In this project I created a button with a call to action for the user, where upo
 
 ---
 
+#### References
+
 This project is inspired by the post published on [dev.to](https://dev.to/codefoxx/25-beginner-javascript-project-ideas-3m9h)
