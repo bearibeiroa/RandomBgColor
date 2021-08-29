@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#submit {
+	border-radius: 0;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+	background-color: white;
+}
+
+#submit:hover {
+	color: white;
+	background-color: black;
+}
