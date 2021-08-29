@@ -1,8 +1,8 @@
-# RandomColor
+# RandomColor 🎨
 
-Random background color just for fun. :woman_artist:
+Random background color just for fun.
 
-## Skills
+## Skills :woman_artist:
 
 In this project, I was able to practice the following skills:
 
