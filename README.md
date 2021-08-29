@@ -1,6 +1,6 @@
 # RandomColor
 
-Random background color just for fun.
+Random background color just for fun. :woman_artist:
 
 ## Skills
 
