@@ -1,4 +1,4 @@
-# RandomColor 🎨
+# Random Background Color 🎨
 
 Random background color just for fun.
 
